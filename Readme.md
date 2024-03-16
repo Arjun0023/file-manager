@@ -5,6 +5,8 @@ Setup:-
 `yarn install`
 `yarn start`
 
+create a .env file and store your api keys
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
